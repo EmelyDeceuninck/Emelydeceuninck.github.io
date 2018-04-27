@@ -3146,24 +3146,3 @@ body {
   word-wrap: break-word;
   word-break: break-word;
 }
-.cid-qPYMkMuOrA {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qPYMkMuOrA .image-block {
-  margin: auto;
-}
-.cid-qPYMkMuOrA figcaption {
-  position: relative;
-}
-.cid-qPYMkMuOrA figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qPYMkMuOrA .image-block {
-    width: 100% !important;
-  }
-}
